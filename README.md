@@ -6,6 +6,7 @@
 https://github.com/2dust/v2rayNG/releases/tag/1.8.5
 
 آیفون: Streisand
+
 https://apps.apple.com/us/app/streisand/id6450534064
 
 
